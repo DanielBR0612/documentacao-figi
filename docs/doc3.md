@@ -6,7 +6,7 @@ slug: navigation
 youTubeVideoId: AhsGaxK1afE
 ---
 
-Sua loja online temm 2 menus padrões que aparencem em todas as paginas: O menu principal e o rodapé. Você consegue **Adicionar, remover e/ou editar os itens do menu**.
+Sua loja online tem 2 menus padrões que aparecem em todas as paginas: O menu principal e o rodapé. Você consegue **Adicionar, remover e/ou editar os itens do menu**.
 
 [![Watch the video](https://i.ytimg.com/vi/AhsGaxK1afE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBp_qxTzhXRY1IsSP7CmlIlZSr1eg)](https://youtu.be/AhsGaxK1afE)
 
