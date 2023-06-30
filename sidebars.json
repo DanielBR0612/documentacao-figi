@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Configurações básicas": ["doc1","doc2","doc3"],
+    "Primeira categoria": [],
+    "Second Category": []
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
